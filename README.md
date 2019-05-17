@@ -4,7 +4,7 @@
   
   
 # Telegram Persian Font
-easy change telegram desktop font 
+Easy Change Telegram Desktop Font 
 <p>
 
 
