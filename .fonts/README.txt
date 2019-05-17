@@ -1,16 +1,26 @@
- ----------------------
-  Ubuntu Font Family
- ======================
+<center>
+<img src="http://s9.picofile.com/file/8360755200/Untitled.png">
+<center/>
 
-The Ubuntu Font Family are a set of matching new libre/open fonts in
-development during 2010--2011.  And with further expansion work and
-bug fixing during 2015.  The development is being funded by
-Canonical Ltd on behalf the wider Free Software community and the
-Ubuntu project.  The technical font design work and implementation is
-being undertaken by Dalton Maag.
+# LinTor V0.0.1
+Easy Install Tor Service On GNU/Linux Distribution
+<p>
+  &nbsp;
 
-Both the final font Truetype/OpenType files and the design files used
-to produce the font family are distributed under an open licence and
-you are expressly encouraged to experiment, modify, share and improve.
+<b>How To Install LinTor </b>
 
-  http://font.ubuntu.com/
+1 - git clone https://github.com/LinApps/LinTor
+<p>
+2 - cd LinTor
+<p>
+3 - chmod +x ./lintor.sh
+<p>
+4 - ./lintor.sh
+&nbsp;
+  <p>
+    <p>
+&nbsp;
+&nbsp;
+<p>
+<b>Telegram :</b> LinApps
+<p>
