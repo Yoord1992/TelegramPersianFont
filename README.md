@@ -3,7 +3,7 @@
 <center/>
   
   
-# Telegram Persian Font
+# Telegram Persian Font V0.0.1
 Easy Change Telegram Desktop Font 
 <p>
 
