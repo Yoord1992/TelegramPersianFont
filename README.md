@@ -1,21 +1,21 @@
 <center>
-<img src="http://s9.picofile.com/file/8360755200/Untitled.png">
+<img src="http://s9.picofile.com/file/8360755750/1.png">
 <center/>
 
-# LinTor V0.0.1
-Easy Install Tor Service On GNU/Linux Distribution
+#Telegram Persian Font V0.0.1
+
 <p>
   &nbsp;
 
-<b>How To Install LinTor </b>
+<b>How To Install Script </b>
 
-1 - git clone https://github.com/LinApps/LinTor
+1 - git clone https://github.com/LinApps/TelegramPersianFont
 <p>
-2 - cd LinTor
+2 - cd TelegramPersianFont
 <p>
-3 - chmod +x ./lintor.sh
+3 - chmod +x ./font.sh
 <p>
-4 - ./lintor.sh
+4 - ./font.sh
 &nbsp;
   <p>
     <p>
